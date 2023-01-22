@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Frases</string>
+    <string name="empty_phrases_list">Ainda não existem frases cadastradas</string>
+    <string name="dica_botao_add">Botão para adicionar novas frases.</string>
+    <string name="hint_autores">Autores:</string>
+    <string name="hint_citacao">Citação:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
+    <string name="erro_sem_autor">Por favor, informe o nome do autor.</string>
+    <string name="erro_sem_citacao">Por favor, digite a citação.</string>
+    <string name="lista_limpa_sucesso">Lista limpa com sucesso.</string>
+</resources>
